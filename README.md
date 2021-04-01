@@ -8,3 +8,5 @@ Duncan 3/20/21
 
 I added the compounds into the game information window. I also repositioned the buttons so that they're centered appropriately. The tutorial screen is set up just like the logo screen for now and only shows for 3 seconds before moving to the actual game. It will be adjusted at a later point. The end of game prompt now states "Uh oh! The bubbles reached the launcher!" and once the user closes it, the game moves to the next screen. This screen is titled game over and has 3 buttons: retry, home, and quit. Retry returns to the previous level and reloads it, home returns to the start screen, and quit ends the game. Natasha 3/25/21
 
+The tutorial screen is more like an instruction screen. There are image placeholders for now since the game is not complete so I'll add them in when we make more progress. This screen tells players how to use the bubble launcher, how to destroy bubbles, and how to pass the levels. I also extended the timer so that players have enough time to read everything. Natasha 4/1/21
+
