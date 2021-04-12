@@ -23,3 +23,5 @@ There is now a prompt when all the bubbles are cleared from the screen indicatin
 The user will lose the game if the screen has more than 67 bubbles and be taken to the game over screen. We added a pause button with 3 options: resume, home, and restart. There are now bubbles for levels 3 and 4 but no logic for the charges of the new bubbles have been added. Natasha, Janet 4/8/21
 
 The captions for the game screen now show what level the game is on and we added captions for all of the other game windows. We finished adding all of the ions for level 5. We added on the the get_odd_object, get_even_object, get_charge, get_random, and get_odd_sprite scripts and the free object bubble code so that the new bubbles should work and be destroyed if a neutral charge is created. For the game info window, I added a disclaimer in bold red text to warn players not to close the window and added more information about the game. Natasha, Janet 4/9/21
+
+If the bubbles reach the launcher, the level fail prompt appears. The fail script is in 2 places, one for the launched bubble and another for the timer that adds additional bubbles. Natasha, Janet 4/12/21
